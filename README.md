@@ -1,1 +1,2 @@
-# koding by Nurdianto
+# koding 
+by Nurdianto
